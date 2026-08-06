@@ -1,0 +1,12 @@
+[
+  {
+    "question": "What is the summary of the paper 'agentic retrieval augmented generation large language model'?",
+    "answer": "The rapid evolution of large language models (LLMs) has catalyzed a shift from passive AI systems toward autonomous agentic architectures capable of reasoning, memory, tool use, and multi-agent collaboration.",
+    "retrieved_doc_ids": [
+      "10.63646/kpqm1958",
+      "10.32473/flairs.39.1.141782",
+      "10.55041/isjem07213",
+      "10.20944/preprints202604.0339.v1"
+    ]
+  }
+]
