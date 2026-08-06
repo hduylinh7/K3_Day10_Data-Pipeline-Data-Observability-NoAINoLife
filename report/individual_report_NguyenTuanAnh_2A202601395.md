@@ -7,7 +7,7 @@
 | Họ và tên | Nguyễn Tuấn Anh |
 | MSSV | 2A202601395 |
 | Khóa/Lớp | K3 - VinUni |
-| Tên nhóm | Nhóm 3 - Data Observability |
+| Tên nhóm | NoAINoLife |
 | Vai trò chính | Data Observability & Reporting Owner |
 | Repository | https://github.com/hduylinh7/K3_Day10_Data-Pipeline-Data-Observability-NoAINoLife |
 | Ngày hoàn thành | 2026-08-06 |
